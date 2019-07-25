@@ -1,0 +1,58 @@
+# built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+out/
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Eclipse project files
+.classpath
+.project
+
+# Windows thumbnail db
+.DS_Store
+
+# IDEA/Android Studio project files, because
+# the project can be imported from settings.gradle
+.idea
+*.iml
+
+# Old-style IDEA project files
+*.ipr
+*.iws
+
+# Local IDEA workspace
+.idea/workspace.xml
+
+# Gradle cache
+.gradle
+
+# Sandbox stuff
+_sandbox
+
+node_modules/
+.flowconfig
+.txt
+app/src/main/java/com/zmsoft/card/presentation/react/reactModule.java
+package.json
+#2dfire.keystore
+#signing.properties
+apkpatch/opt/
+freeline_project_description.json
+freeline/
+freeline_core/
+freeline.py
+app/com.crashlytics.settings.json
+app/session_analytics.tap
